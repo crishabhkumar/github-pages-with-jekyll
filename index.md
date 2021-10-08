@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my first website using Github"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm trying to do my best to learn github hosting.
+
